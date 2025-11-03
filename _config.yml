@@ -1,6 +1,23 @@
-url: "https://Wang_HongWei_MathPage.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
-title: "WangHongWei_AcademicPage" # the name of your site, e.g. ACME Corp.
+# 网站设置
+url: "https://Wang_HongWei_MathPage.github.io" 
+baseurl: "" 
+title: "WangHongWei_AcademicPage" 
 description: "WangHongWei's Math Homepage"
-email:"1972396871@qq.com"
-github_username:WangHongWei-AcademicPage
+
+# 你的信息
+name: "Wang HongWei" 
+email: "1972396871@qq.com"
+github_username: WangHongWei-AcademicPage
+
+# 构建设置
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# 其他设置（暂时保持原样）
+twitter_username: ""
+google_scholar_id: ""
+linkedin_username: ""
+medium_username: ""
