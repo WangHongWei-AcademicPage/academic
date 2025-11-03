@@ -1,4 +1,6 @@
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://Wang_HongWei_MathPage.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-title: "academic" # the name of your site, e.g. ACME Corp.
-description: "a Jekyll theme for academia"
+title: "WangHongWei_AcademicPage" # the name of your site, e.g. ACME Corp.
+description: "WangHongWei's Math Homepage"
+email:"1972396871@qq.com"
+github_username:WangHongWei-AcademicPage
