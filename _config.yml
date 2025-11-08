@@ -1,11 +1,15 @@
 # 网站设置
 url: "https://WangHongWei-AcademicPage.github.io"
 baseurl: "" 
-title: "WangHongWei_AcademicPage" 
-description: "WangHongWei's Math Homepage"
+title: "Hongwei Wang" 
+description: >-
+  Undergraduate student in Pure Mathematics at Xi'an Jiaotong-Liverpool University, with 
+  focus in algebraic topology, homotopy theory, homotopy type theory, and formal verification of 
+  mathematics using Lean theorem prover.
+
 
 # 你的信息
-name: "Wang HongWei" 
+name: "Hongwei Wang" 
 email: "1972396871@qq.com"
 github_username: WangHongWei-AcademicPage
 
